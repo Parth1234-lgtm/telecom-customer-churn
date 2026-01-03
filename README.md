@@ -53,11 +53,17 @@ Two additional steps were applied to improve model performance and interpretabil
 
 ## Repository Structure
 telecom-customer-churn/
+
 │
+
 ├── churn_analysis.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── data/
+
     └── telecom_churn.csv
 
 ## Future Improvements

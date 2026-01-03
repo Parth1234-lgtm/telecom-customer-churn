@@ -62,8 +62,7 @@ telecom-customer-churn/
 
 ├── requirements.txt
 
-└── data/<br>
-    └── telecom_churn.csv
+└── data/-- telecom_churn.csv
 
 ## Future Improvements
 Potential extensions to this project include:

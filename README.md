@@ -36,7 +36,7 @@ Two additional steps were applied to improve model performance and interpretabil
     - Logistic regression coefficients were analyzed to identify the most influential features
     - Contract type, tenure, and monthly charges were found to be the strongest drivers of churn
 - ### Threshold Tuning
-- Instead of using the default 0.5 decision threshold, a lower threshold was tested
+    - Instead of using the default 0.5 decision threshold, a lower threshold was tested
     - This improved recall for churn prediction at the cost of increased false positives
     - The trade off highlights how business objectives can influence model decisions
 

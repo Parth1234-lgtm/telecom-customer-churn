@@ -42,7 +42,6 @@ Two additional steps were applied to improve model performance and interpretabil
 - ### Feature Importance
     - Logistic regression coefficients were analyzed to identify the most influential features
     - Contract type, tenure, and monthly charges were found to be the strongest drivers of churn
-
 - ### Threshold Tuning
     - Instead of using the default 0.5 decision threshold, a lower threshold was tested
     - This improved recall for churn prediction at the cost of increased false positives
@@ -70,8 +69,7 @@ telecom-customer-churn/
 
 ├── requirements.txt
 
-└── data/
-    └── telecom_churn.csv
+└── data/-- telecom_churn.csv
 
 ## Future Improvements
 Potential extensions to this project include:
